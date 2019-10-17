@@ -85,7 +85,7 @@ compile 'com.mcxiaoke.volley:library:1.0.19-SNAPSHOT'
     * merge upstream, Add a RequestFinishedListener to RequestQueue. 
     * merge upstream, Change the default character encoding for JSON responses to UTF-8    
 
-* **1.0.10 2014.12.30**
+* **1.0.10 2014.12.31**
     * merge upstream, Use the view size and scale type to restrict NIV requests. 
     * merge pr, Add a getImageURL method to NetworkImageView 
     * merge pr, Add the options of setting DiskBasedCache sizes in Volley.java 
